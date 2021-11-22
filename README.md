@@ -16,9 +16,9 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 
 
+```
 `git clone https://github.com/ozgunbos/kodluyoruzilkrepo.git`
-
-
+```
 
 ## Usage
 
